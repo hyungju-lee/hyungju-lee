@@ -22,6 +22,7 @@
 
 ## Tech Stack :books:
 
+<span>
 <img src="https://img.shields.io/badge/html5-green?style=for-the-badge&logo=html5&logoColor=#FF5722"/>
 <img src="https://img.shields.io/badge/css3-red?style=for-the-badge&logo=css3&logoColor=#FF5722"/>
 <img src="https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=#FF5722"/>
@@ -31,6 +32,7 @@
 <img src="https://img.shields.io/badge/webpack-skyblue?style=for-the-badge&logo=webpack&logoColor=#FF5722"/>
 <img src="https://img.shields.io/badge/vite-purple?style=for-the-badge&logo=vite&logoColor=#FF5722"/>
 <img src="https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=jquery&logoColor=#0769AD"/>
+</span>
 
 ## Statistics :office:
 
