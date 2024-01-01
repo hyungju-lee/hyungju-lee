@@ -42,7 +42,7 @@
 
 - [NHN Edu](https://www.nhnedu.com/) (2022.07 ~ 현재)
   - Front-end Developer
-  - Vue2, Vue3, Webpack, Vite, JavaScript, HTML5, CSS3, storybook, micro-frontend, monorepo, web-component
+  - Vue2, Vue3, Webpack, Vite, grunt, JavaScript, HTML5, CSS3, storybook, micro-frontend, monorepo, web-component
 - [dktechin](https://dktechin.com/) (2021.09 ~ 2022.06)
   - Front-end Developer
   - Vue2, Vue3, Webpack, JavaScript, HTML5, CSS3, storybook
