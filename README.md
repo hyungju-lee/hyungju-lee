@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=jquery&logoColor=#0769AD"/>
 </span>
 
-## Work Experiences
+## Work Experiences :construction_worker:
 
 - [NHN Edu](https://www.nhnedu.com/) (2022.07 ~ 현재)
   - Front-end Developer
