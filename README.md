@@ -38,7 +38,24 @@
 <img src="https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=jquery&logoColor=#0769AD"/>
 </span>
 
+## Work Experiences
+
+- [NHN Edu](https://www.nhnedu.com/) (2022.07 ~ 현재)
+  - Front-end Developer
+  - Vue2, Vue3, Webpack, Vite, JavaScript, HTML5, CSS3, storybook, micro-frontend, monorepo, web-component
+- [dktechin](https://dktechin.com/) (2021.09 ~ 2022.06)
+  - Front-end Developer
+  - Vue2, Vue3, Webpack, JavaScript, HTML5, CSS3, storybook
+- [hivelab](https://hivelab.co.kr/) (2019.02 ~ 2021.08)
+  - UI Developer
+  - HTML5, CSS3, jQuery, JavaScript, grunt, gulp, webpack, canvas, storybook
+- 코스터네트웍스 (2018.10 ~ 2018.12)
+  - UI Developer
+  - HTML5, CSS3, jQuery, JavaScript
+- [나인트리](https://www.ninetree.com/) (2018.01 ~ 2018.10)
+  - UI Developer
+  - HTML5, CSS3, jQuery, JavaScript
+
 ## Statistics :office:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungju-lee&show_icons=true&theme=radical)
-
