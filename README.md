@@ -60,6 +60,7 @@
 
 - [cross-framework-components](https://github.com/hyungju-lee/cross-framework-components)
   - [https://www.npmjs.com/package/hyungju-lee-ui](https://www.npmjs.com/package/hyungju-lee-ui)
+  - npm link (symlink 활용)
   - vue2, vue3, react 등 프레임워크에 구애받지 않는 컴포넌트 설계 프로젝트
   - web component 활용 중
   - 알게된점: react는 이벤트 위임 방식으로 되어있기 때문에 react 대응위해 한번 더 래핑 필요 
