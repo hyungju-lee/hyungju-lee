@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=#FF5722"/>
 <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=#FF5722"/>
 <img src="https://img.shields.io/badge/vue-darkgreen?style=for-the-badge&logo=vuedotjs&logoColor=#FF5722"/>
+<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=#61DAFB"/>
 <img src="https://img.shields.io/badge/webpack-skyblue?style=for-the-badge&logo=webpack&logoColor=#FF5722"/>
 <img src="https://img.shields.io/badge/vite-purple?style=for-the-badge&logo=vite&logoColor=#FF5722"/>
 <img src="https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=jquery&logoColor=#0769AD"/>
