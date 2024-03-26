@@ -112,4 +112,4 @@
 
 ### study site
 
-- [https://hyungju-lee.github.io/TOTAL_REACT_GUIDE_1/](https://hyungju-lee.github.io/TOTAL_REACT_GUIDE_1/)
+- [TOTAL_REACT_GUIDE_1](https://hyungju-lee.github.io/TOTAL_REACT_GUIDE_1/)
