@@ -97,8 +97,8 @@
 
 ---
 
-- [TOTAL_MICRO_FRONTEND_TRAINING_1](https://github.com/hyungju-lee/TOTAL_MICRO_FRONTEND_TRAINING_1)
-- [TOTAL_MICRO_FRONT_TRAINING_2](https://github.com/hyungju-lee/TOTAL_MICRO_FRONT_TRAINING_2)
+- [TOTAL_MICRO_FRONTEND_TRAINING_1 ...ing](https://github.com/hyungju-lee/TOTAL_MICRO_FRONTEND_TRAINING_1)
+- [TOTAL_MICRO_FRONT_TRAINING_2 ...ing](https://github.com/hyungju-lee/TOTAL_MICRO_FRONT_TRAINING_2)
 
 ### 4. devops
 
@@ -106,7 +106,7 @@
 
 ### 5. chrome extensions
 
-- [TOTAL_CHROME_EXTENSION_GUIDE_1](https://github.com/hyungju-lee/TOTAL_CHROME_EXTENSIONS)
+- [TOTAL_CHROME_EXTENSION_GUIDE_1 ...ing](https://github.com/hyungju-lee/TOTAL_CHROME_EXTENSIONS)
 
 ### 6. blog
 
