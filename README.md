@@ -78,38 +78,47 @@
 
 ## Study
 
-### vue, nuxt
+### 1. vue, nuxt
 
 - [TOTAL_VUE_GUIDE_1](https://github.com/hyungju-lee/TOTAL_VUE_GUIDE_1)
 
-### react, next
+### 2. react, next
 
 - [TOTAL_REACT_GUIDE_1](https://github.com/hyungju-lee/TOTAL_REACT_GUIDE_1)
 - [TOTAL_REACT_GUIDE_2](https://github.com/hyungju-lee/TOTAL_REACT_GUIDE_2)
 - [TOTAL_REACT_GUIDE_3](https://github.com/hyungju-lee/TOTAL_REACT_GUIDE_3)
 
-### micro frontend
+### 3. micro frontend
 
 - [TOTAL_REACT18_MICRO_FRONTEND](https://github.com/hyungju-lee/TOTAL_REACT18_MICRO_FRONTEND)
 - [TOTAL_REACT18_MICRO_FRONTEND_2](https://github.com/hyungju-lee/TOTAL_REACT18_MICRO_FRONTEND_2)
 - [TOTAL_APPSHELL_VUE2_VUE3_REACT18_MICRO_FRONTEND](https://github.com/hyungju-lee/TOTAL_APPSHELL_VUE2_VUE3_REACT18_MICRO_FRONTEND)
 - [TOTAL_FUNDAMENTALS_MICRO_FRONTEND](https://github.com/hyungju-lee/TOTAL_FUNDAMENTALS_MICRO_FRONTEND)
 
-### devops
+---
+
+- [TOTAL_MICRO_FRONTEND_TRAINING_1](https://github.com/hyungju-lee/TOTAL_MICRO_FRONTEND_TRAINING_1)
+- [TOTAL_MICRO_FRONT_TRAINING_2](https://github.com/hyungju-lee/TOTAL_MICRO_FRONT_TRAINING_2)
+
+### 4. devops
 
 - [TOTAL_DEVOPS_GUIDE_1](https://github.com/hyungju-lee/TOTAL_DEVOPS_GUIDE_1)
 
-### blog
+### 5. chrome extensions
+
+- [TOTAL_CHROME_EXTENSION_GUIDE_1](https://github.com/hyungju-lee/TOTAL_CHROME_EXTENSIONS)
+
+### 6. blog
 
 - [hyungju-lee2023.github.io](https://github.com/hyungju-lee/hyungju-lee2023.github.io)
 
-### etc
+### 7. etc
 
 - [TOTAL_DAILY_STUDY](https://github.com/hyungju-lee/TOTAL_DAILY_STUDY)
 - [TOTAL_CROSS_FRAMEWORK_COMPONENTS](https://github.com/hyungju-lee/TOTAL_CROSS_FRAMEWORK_COMPONENTS)
 - [TOTAL](https://github.com/hyungju-lee/TOTAL)
 - [TOTAL_CORP](https://github.com/hyungju-lee/TOTAL_CORP)
 
-### study site
+### 8. study site
 
 - [TOTAL_REACT_GUIDE_1](https://hyungju-lee.github.io/TOTAL_REACT_GUIDE_1/)
