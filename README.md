@@ -78,6 +78,8 @@
 
 ## Study
 
+- [TOTAL_STUDY](https://github.com/hyungju-lee/TOTAL_STUDY)
+
 ### 1. vue, nuxt
 
 - [TOTAL_VUE_GUIDE_1](https://github.com/hyungju-lee/TOTAL_VUE_GUIDE_1)
