@@ -2,7 +2,27 @@
 
 ## Hello~! :raised_hand:
 
+소프트웨어 엔지니어가 되고싶은 프론트엔드 개발자 이형주입니다.
+
+현재 NHN Edu 프론트엔드 개발자로서 아이엠티처 서비스를 개발 및 운영하고 있습니다.
+
+요즘은 마이크로프론트엔드와 웹 컴포넌트에 관심이 많습니다.
+
+마이크로 프론트엔드 기술로 서비스 구조를 좀 더 유연하게 만들어 기능개발 및 유지보수를 유연하게하고, 웹 컴포넌트로 크로스 프레임워크 컴포넌트를 설계해 프레임워크에 구애받지 않는 프론트엔드 개발자가 되고싶기 때문입니다.
+
 ## BLOG :notebook_with_decorative_cover:
+
+<a href="https://www.linkedin.com/in/%ED%98%95%EC%A3%BC-%EC%9D%B4-55085822a/" target="_blank" style="overflow: hidden; display: inline-block; vertical-align: top;">
+    <img src="https://img.shields.io/badge/LinkedIn-light?style=for-the-badge&logo=linkedin&logoColor=#0A66C2"/>
+</a>
+
+<a href="https://careerly.co.kr/profiles/562071" target="_blank" style="overflow: hidden; display: inline-block; vertical-align: top;">
+    <img src="https://img.shields.io/badge/Careerly-grey?style=for-the-badge&logo=c&logoColor=#A8B9CC"/>
+</a>
+
+<a href="https://hyungju-lee.github.io/hyungju-lee2023.github.io/" target="_blank" style="overflow: hidden; display: inline-block; vertical-align: top;">
+    <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=blogger&logoColor=#FF5722"/>
+</a>
 
 ## Tech Stack :books:
 
