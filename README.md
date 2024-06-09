@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/Careerly-grey?style=for-the-badge&logo=c&logoColor=#A8B9CC"/>
 </a>
 
+
+
 <a href="https://hyungju-lee.github.io/hyungju-lee2023.github.io/" target="_blank" style="overflow: hidden; display: inline-block; vertical-align: top;">
     <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=blogger&logoColor=#FF5722"/>
 </a>
@@ -119,9 +121,9 @@
 
 - [TOTAL_CHROME_EXTENSION_GUIDE_1 ...ing](https://github.com/hyungju-lee/TOTAL_CHROME_EXTENSIONS)
 
-### 6. blog
+### 6. 이전 블로그
 
-- [hyungju-lee2023.github.io](https://github.com/hyungju-lee/hyungju-lee2023.github.io)
+- [2023년 블로그](https://hyungju-lee.github.io/hyungju-lee2023.github.io/)
 
 ### 7. etc
 
