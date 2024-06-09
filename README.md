@@ -13,6 +13,7 @@
 5. CSR (Vue, React)
 6. Native (React Native)
 7. Backend (Node.js, Express)
+8. AWS
 
 ## BLOG :notebook_with_decorative_cover:
 
