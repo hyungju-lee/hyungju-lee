@@ -4,11 +4,15 @@
 
 소프트웨어 엔지니어가 되고싶은 프론트엔드 개발자 이형주입니다.
 
-현재 NHN Edu 프론트엔드 개발자로서 아이엠티처 서비스를 개발 및 운영하고 있습니다.
+## 주요 관심사
 
-요즘은 마이크로프론트엔드와 웹 컴포넌트에 관심이 많습니다.
-
-마이크로 프론트엔드 기술로 서비스 구조를 좀 더 유연하게 만들어 기능개발 및 유지보수를 유연하게하고, 웹 컴포넌트로 크로스 프레임워크 컴포넌트를 설계해 프레임워크에 구애받지 않는 프론트엔드 개발자가 되고싶기 때문입니다.
+1. 마이크로프론트엔드
+2. Headless UI Component
+3. CI/CD (Git Action, Jenkins)
+4. SSG, SSR (Next.js, Nuxt.js)
+5. CSR (Vue, React)
+6. Native (React Native)
+7. Backend (Node.js, Express)
 
 ## BLOG :notebook_with_decorative_cover:
 
