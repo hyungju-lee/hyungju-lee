@@ -27,7 +27,7 @@
 
 
 
-<a href="https://hyungju-lee.github.io/hyungju-lee2023.github.io/" target="_blank" style="overflow: hidden; display: inline-block; vertical-align: top;">
+<a href="https://hyungju-lee.github.io/TOTAL_STUDY/" target="_blank" style="overflow: hidden; display: inline-block; vertical-align: top;">
     <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=blogger&logoColor=#FF5722"/>
 </a>
 
@@ -54,7 +54,7 @@
 
 - [NHN Edu](https://www.nhnedu.com/) (2022.07 ~ 현재)
   - Front-end Developer
-  - Vue2, Vue3, vuex, pinia React18, redux, redux-toolkit, Webpack, Vite, grunt, JavaScript, HTML5, CSS3, storybook, micro-frontend, monorepo, web-component, shell-script
+  - Vue2, Vue3, vuex, pinia React18, redux, redux-toolkit, Webpack, Vite, grunt, JavaScript, HTML5, CSS3, storybook, micro-frontend, monorepo, web-component, shell-script, git action, jenkins
 - [dktechin](https://dktechin.com/) (2021.09 ~ 2022.06)
   - Front-end Developer
   - Vue2, Vue3, Webpack, JavaScript, HTML5, CSS3, storybook
