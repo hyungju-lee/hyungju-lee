@@ -27,7 +27,7 @@
 
 
 
-<a href="https://hyungju-lee.github.io/TOTAL_STUDY/" target="_blank" style="overflow: hidden; display: inline-block; vertical-align: top;">
+<a href="https://hyungju-lee.com/" target="_blank" style="overflow: hidden; display: inline-block; vertical-align: top;">
     <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=blogger&logoColor=#FF5722"/>
 </a>
 
