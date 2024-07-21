@@ -135,3 +135,9 @@
 ### 8. study site
 
 - [TOTAL_REACT_GUIDE_1](https://hyungju-lee.github.io/TOTAL_REACT_GUIDE_1/)
+
+### 9. 최근 관리중인 개인 사이트
+
+- [study repo](https://github.com/hyungju-lee/study)
+- [study_common-ui repo](https://github.com/hyungju-lee/study_common-ui)
+- [개인 페이지](https://hyungju-lee.com/)
