@@ -71,17 +71,15 @@
 ## 개인 프로젝트 :star:
 
 - [cross-framework-components](https://github.com/hyungju-lee/cross-framework-components)
-  - [https://www.npmjs.com/package/hyungju-lee-ui](https://www.npmjs.com/package/hyungju-lee-ui)
+  - [https://hyungju-lee.com/common-ui/](https://hyungju-lee.com/common-ui/)
+  - https://www.npmjs.com/package/hyungju-lee-ui // 여기에 배포는 아직 안함
   - npm link (symlink 활용)
   - vue2, vue3, react 등 프레임워크에 구애받지 않는 컴포넌트 설계 프로젝트
-  - web component 활용 중
+  - web components 활용
   - 알게된점: react는 이벤트 위임 방식으로 되어있기 때문에 react 대응위해 한번 더 래핑 필요
   - 각 프레임워크에 맞게 컴포넌트 빌드하는 시스템 구축 필요
-- [front-design-system](https://hyungju-lee.github.io/front-design-system/)
-  - 당장 web component 기반의 cross framework components 설계에 어려움을 느껴 시작한 프로젝트
-  - vue2, vue3, react18, vanilla javascript를 위한 디자인 시스템 구축
-  - 현재: monorepo 기반 microfrontend를 적용하여 vue2, vue3, react18 3개의 앱을 app shell 앱에서 통합
-  - 현재 구조에서 각 프레임워크에 맞게 컴포넌트 설계 예정
+  - 위 문제를 해결하기 위해 litjs 활용
+  - monorepo 기반
 
 ## Statistics :office:
 
