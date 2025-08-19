@@ -52,6 +52,7 @@
 
 ## Work Experiences :construction_worker:
 
+- [기아](https://www.kia.com/kr) (2025.07~)
 - [NHN Edu](https://www.nhnedu.com/) (2022.07 ~ 2025.07)
   - Front-end Developer
   - Vue2, Vue3, vuex, pinia React18, redux, redux-toolkit, Webpack, Vite, grunt, JavaScript, HTML5, CSS3, storybook, micro-frontend, monorepo, web-component, shell-script, git action, jenkins
